@@ -2,7 +2,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-:nmap \l :setlocal number!<CR>
+:nmap \n :setlocal number!<CR>
 :nmap \o :set paste!<CR>
 :set incsearch
 :set ignorecase
