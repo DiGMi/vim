@@ -21,3 +21,5 @@ let g:miniBufExplMapCTabSwitchBufs = 1
 let g:miniBufExplModSelTarget = 1 
 
 colorscheme elflord
+
+let g:tex_flavor='latex'

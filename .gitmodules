@@ -12,3 +12,6 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "bundle\\vim-latex"]
+	path = bundle\\vim-latex
+	url = git://git.code.sf.net/p/vim-latex/vim-latex
